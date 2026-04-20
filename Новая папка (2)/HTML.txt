@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Приглашение на событие</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&family=Playfair+Display&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="overlay">
+            <h1 class="title">Lina & Co</h1>
+            <p class="subtitle">Приглашаем вас на особенный вечер</p>
+        </div>
+    </header>
+
+    <section class="details">
+        <div class="info-block">
+            <h3>Когда</h3>
+            <p>25 июня 2026</p>
+            <p>в 18:00</p>
+        </div>
+        <div class="info-block">
+            <h3>Где</h3>
+            <p>Ул. Красная, д. 10</p>
+            <p>Лофт "Атмосфера"</p>
+        </div>
+    </section>
+
+    <section class="rsvp">
+        <h2>Вы придете?</h2>
+        <p>Пожалуйста, подтвердите ваше участие до 10 июня</p>
+        <a href="https://forms.gle/your-id" target="_blank" class="button">Заполнить анкету</a>
+    </section>
+
+</body>
+</html>
